@@ -7,7 +7,9 @@
 - 🔗 Linkedin: linkedin.com/in/surendar-kumar-39179b256
 - 😄 Pronouns: He
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B%2B&hide_contributor_rank=false&limit=5)
+## Connect with Me
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/surendar-kumar-39179b256/)
 
 <!---
 Surendar-k/Surendar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
