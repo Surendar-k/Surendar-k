@@ -58,6 +58,19 @@ About Me
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendar-k&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+## 👁️ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Surendar-k&style=flat-square" alt="Profile Views" />
+</p>
+
+## 🚀 Projects
+
+- [**CoffeeSpot**](https://github.com/Surendar-k/CoffeeSpot) - A full-stack coffee shop application built with React, Node.js, and MySQL.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Developer GIF" width="300" />
+</p>
 
 <!---
 Surendar-k/Surendar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
