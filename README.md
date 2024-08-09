@@ -68,6 +68,11 @@ About Me
 
 - [**CoffeeSpot**](https://github.com/Surendar-k/CoffeeSpot) - A full-stack coffee shop application built with React, Node.js, and MySQL.
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendar-k&theme=radical" alt="Contribution Streak" />
+</p>
 
 
 <!---
