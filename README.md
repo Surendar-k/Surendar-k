@@ -1,14 +1,16 @@
 About Me
-👋 Hi there! I'm Surendar Kumar (@Surendar-k)
-👀 Passionate about Web Development and crafting interactive digital experiences
-💡 Proficient in HTML, CSS, JavaScript, with a growing expertise in React.js and Java
-🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape
-💞️ Eager to collaborate on innovative Full Stack Projects and contribute to impactful solutions
-📫 Feel free to reach out: surendarkumar2k@gmail.com
-🔗 Let's connect on LinkedIn
-😄 Pronouns: He/Him
+          
+          👋 Hi there! I'm Surendar Kumar (@Surendar-k)
+          👀 Passionate about Web Development and crafting interactive digital experiences
+          💡 Proficient in HTML, CSS, JavaScript, with a growing expertise in React.js and Java
+          🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape
+          💞️ Eager to collaborate on innovative Full Stack Projects and contribute to impactful solutions
+          📫 Feel free to reach out: surendarkumar2k@gmail.com
+          🔗 Let's connect on LinkedIn
+         😄 Pronouns: He/Him
 
 ## Connect with Me
+      
 
 <a href="https://www.linkedin.com/in/surendar-kumar-39179b256/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/>
