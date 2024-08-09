@@ -7,7 +7,7 @@ About Me
           💞️ Eager to collaborate on innovative Full Stack Projects and contribute to impactful solutions
           📫 Feel free to reach out: surendarkumar2k@gmail.com
           🔗 Let's connect on LinkedIn
-         😄 Pronouns: He/Him
+          😄 Pronouns: He/Him
 
 ## Connect with Me
       
