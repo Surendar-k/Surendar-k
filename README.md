@@ -1,12 +1,12 @@
-## About Me
-- 👋 Hi, I’m @Surendar-k
-- 👀 I’m interested in Web Developer
-- 💡 Had Knowledge in HTML, CSS, JAVASCRIPT
-- 🌱 I’m currently learning on JAVA and REACT
-- 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 Mail: surendarkumar2k@gmail.com
-- 🔗 Linkedin: linkedin.com/in/surendar-kumar-39179b256
-- 😄 Pronouns: He
+About Me
+👋 Hi there! I'm Surendar Kumar (@Surendar-k)
+👀 Passionate about Web Development and crafting interactive digital experiences
+💡 Proficient in HTML, CSS, JavaScript, with a growing expertise in React.js and Java
+🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape
+💞️ Eager to collaborate on innovative Full Stack Projects and contribute to impactful solutions
+📫 Feel free to reach out: surendarkumar2k@gmail.com
+🔗 Let's connect on LinkedIn
+😄 Pronouns: He/Him
 
 ## Connect with Me
 
@@ -39,7 +39,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+  </a>
 </p>
+
 
 <!---
 Surendar-k/Surendar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
