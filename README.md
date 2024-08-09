@@ -74,6 +74,11 @@ About Me
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendar-k&theme=radical" alt="Contribution Streak" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Surendar-k&theme=radical" alt="GitHub Trophies" />
+</p>
 
 <!---
 Surendar-k/Surendar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
