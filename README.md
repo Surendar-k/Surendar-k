@@ -49,6 +49,15 @@ About Me
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surendar-k&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendar-k&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <!---
 Surendar-k/Surendar-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
