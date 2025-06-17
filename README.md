@@ -1,20 +1,28 @@
-About Me
-          
-          👋 Hi there! I'm Surendar Kumar (@Surendar-k)
-          👀 Passionate about Web Development and crafting interactive digital experiences
-          💡 Proficient in HTML, CSS, JavaScript, with a growing expertise in React.js and Java
-          🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape
-          💞️ Eager to collaborate on innovative Full Stack Projects and contribute to impactful solutions
-          📫 Feel free to reach out: surendarkumar2k@gmail.com
-          🔗 Let's connect on LinkedIn
-          😄 Pronouns: He/Him
+# 👋 Hello! I'm Surendar K
+
+🚀 **Aspiring Full Stack Developer** with a passion for building scalable web and mobile applications.  
+💡 I specialize in **React.js**, **Node.js**, **TailwindCSS**, and database-backed systems using **MySQL** and **Firebase**.  
+
+---
+
+## 🙋‍♂️ About Me
+
+- 👀 Passionate about Web & Mobile Development and crafting engaging digital experiences  
+- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, with growing expertise in **React.js**, **Node.js**, **Java** , **React Native**  
+- 🌱 Continuously learning new technologies and frameworks to stay ahead in the tech landscape  
+- 💞️ Eager to collaborate on innovative **Full Stack Projects** and contribute to open-source solutions  
+- 🚀 Developer of projects like **CoffeeSpot**, and **Smart IoT-Based Tyre Monitoring System(Mobile Applicaiton)**  
+- 📫 Reach me at: **surendarkumar2k@gmail.com**  
+- 😄 Pronouns: **He/Him**
 
 ## Connect with Me
       
 
-<a href="https://www.linkedin.com/in/surendar-kumar-39179b256/">
+<a href="https://www.linkedin.com/in/k-surendar/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/>
 </a>
+
+## 🛠️ Tech Stack
 
 <h3>Languages</h3>
 <p align="left">
@@ -88,11 +96,7 @@ About Me
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendar-k&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-## 👁️ Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Surendar-k&style=flat-square" alt="Profile Views" />
-</p>
 
 ## 🚀 Projects
 
@@ -108,6 +112,11 @@ About Me
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Surendar-k&theme=radical" alt="GitHub Trophies" />
+</p>
+## 👁️ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Surendar-k&style=flat-square" alt="Profile Views" />
 </p>
 
 <!---
