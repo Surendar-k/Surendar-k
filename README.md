@@ -104,8 +104,10 @@
 
 ## 🔥 Contribution Streak
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendar-k&theme=radical" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Surendar-k&theme=radical" alt="Contribution Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
